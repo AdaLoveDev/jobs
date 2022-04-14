@@ -17,6 +17,8 @@ es por ello que hemos elaborado una serie de puntos que consideramos que son muy
 Para compartir con nuestra comunidad ofertas de empleo, te pedimos que antes leas con atención nuestros [valores](./valores.md)
 y que los tengas en cuenta a la hora de redactar la oferta.
 
+📹 También nos vale un video, si se animan, en lugar de la oferta tradicional escrita.
+
 Una vez tengas la oferta puedes hacérnosla llegar por correo electrónico a organization@adalovedev.es
 
 ¡Gracias por colaborar! 🙏
